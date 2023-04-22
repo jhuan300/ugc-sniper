@@ -1,6 +1,6 @@
 {
     "webhook": {
         "enabled": false,
-        "url": "insert discord webhook URL here"
+        "url": "https://discord.com/api/webhooks/1099176637968416908/GZAcBQzCxGyjQOjaOREpNweU-C02T3cdj-1R6s3F6igaG40qX52U_bnRZWIIasd7aSk7"
     }
 }
